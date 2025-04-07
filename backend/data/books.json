@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Lord of the Rings",
+    "category": "Fantasy",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "category": "Romance",
+    "author": "Jane Austen"
+  }
+]
